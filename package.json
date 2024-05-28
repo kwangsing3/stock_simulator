@@ -1,0 +1,15 @@
+{
+  "name": "stock_simulator",
+  "version": "1.0.0",
+  "description": "A simulator to test and calculate Investment strategy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mariadb": "^3.3.0"
+  }
+}
